@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aoliao/MyProject/test/WebDome/oneDemo/oneDemo/oneDemo.csproj",
+      "projectUniqueName": "/Users/aoliao/MyProject/test_demo/WebDome/oneDemo/oneDemo/oneDemo.csproj",
       "projectName": "oneDemo",
-      "projectPath": "/Users/aoliao/MyProject/test/WebDome/oneDemo/oneDemo/oneDemo.csproj",
+      "projectPath": "/Users/aoliao/MyProject/test_demo/WebDome/oneDemo/oneDemo/oneDemo.csproj",
       "packagesPath": "/Users/aoliao/.nuget/packages/",
-      "outputPath": "/Users/aoliao/MyProject/test/WebDome/oneDemo/oneDemo/obj/",
+      "outputPath": "/Users/aoliao/MyProject/test_demo/WebDome/oneDemo/oneDemo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/aoliao/.nuget/NuGet/NuGet.Config"
